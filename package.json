@@ -1,0 +1,17 @@
+{
+  "name": "xbn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "express": "^4.17.2",
+    "stellar-sdk": "^8.3.0"
+  }
+}
